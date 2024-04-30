@@ -1,4 +1,4 @@
-const funnyRoles = ["椅子带王", "卓别林", "赵本山", "曹云金"];
+const funnyRoles = ["椅子带王", "卓别林", "赵本山", "曹云金","常远"];
 const lowComedyRoles = ["戴志诚", "师胜杰", "高峰", "苏文茂"];
 const highComedyRoles = ["侯宝林", "马季", "侯耀文"];
 const clownComedyRoles = ["大兵", "张云雷", "马志明", "常宝华", "高晓攀", "尚九熙"];
@@ -20,7 +20,8 @@ const allRoles = [
     "马志明",
     "常宝华",
     "高晓攀",
-    "尚九熙"
+    "尚九熙"'
+    "常远"
     ];
 
 const rolesPartyDict = {
@@ -41,7 +42,8 @@ const rolesPartyDict = {
     "马志明" : 0,
     "常宝华" : 0,
     "高晓攀" : 0,
-    "尚九熙" : 0
+    "尚九熙" : 0,
+    "常远" : 1,
     };
 
 const shortName = {
