@@ -1,7 +1,7 @@
 const funnyRoles = ["椅子带王", "卓别林", "赵本山", "曹云金","常远"];
-const lowComedyRoles = ["戴志诚", "师胜杰", "高峰", "苏文茂"];
+const lowComedyRoles = ["戴志诚", "师胜杰", "高峰"];
 const highComedyRoles = ["侯宝林", "马季", "侯耀文","冯巩"];
-const clownComedyRoles = ["大兵", "张云雷", "马志明", "常宝华", "高晓攀", "尚九熙","刘云天"];
+const clownComedyRoles = ["大兵", "张云雷", "马志明", "常宝华", "高晓攀", "尚九熙","刘云天", "苏文茂"];
 const allRoles = [
     "张寿臣",
     "椅子带王",
